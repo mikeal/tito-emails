@@ -1,0 +1,15 @@
+{
+  "name": "tito-emails",
+  "version": "0.1.0",
+  "description": "Get all the email addresses out of tito.",
+  "main": "bin.js",
+  "bin": "./bin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mikeal Rogers <mikeal.rogers@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.53.0"
+  }
+}
